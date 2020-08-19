@@ -7,7 +7,7 @@ analysts assess new loan applications, i.e. predict if a loan would be repaid in
 defaulted on. 
 
 The loans.csv dataset contains ~230k examples and 31 different variables.
-A description of these variables is provided in data-dictionary.csv.
+A description of these variables is provided in **data-dictionary.csv.**
 
 Requirement for this project: 
  - Analyse this data and prepare a short presentation (15 minutes)
